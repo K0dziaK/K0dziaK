@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k0dziak&label=Profile%20views&color=0e75b6&style=flat" alt="k0dziak" /> </p>
 
-- 🔭 I’m currently working on **dsGuilds - Minecraft server core**
-
-- 🕒 I'm only 16 years old 
+- 🔭 I’m currently working on **OneBlock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
